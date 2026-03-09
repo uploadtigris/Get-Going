@@ -1,2 +1,2 @@
 # Get-Going
-Practice and Lessons in the Go programming language
+DevOps and Cloud focused programs in the Go language
