@@ -9,7 +9,7 @@ Thematically focused on infrastructure, systems, and security.
 
 `sysmon` → `logwatch` → `httpcheck` → `portscanner` → `sshaudit`
 
-Starting with `sysmon` for pure Linux + Go fundamentals, build toward concurrency and I/O with
+Starting with `sysmon` for pure Linux + Go fundamentals, building toward concurrency and I/O with
 `logwatch` and `httpcheck`, then lean into the security angle with `portscanner` and `sshaudit`.
 
 ---
